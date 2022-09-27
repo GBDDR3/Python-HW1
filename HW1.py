@@ -28,10 +28,14 @@
 # y = int(input("Введите число y: \n"))
 # x = int(input("Введите число x: \n"))
 
-# if x > 0 and y > 0: print('1')
-# elif x < 0 and y > 0: print('2')
-# elif x < 0 and y < 0: print('3')
-# elif x < 0 and y > 0: print('4')
+# if x > 0 and y > 0:
+#     print('1')
+# elif x < 0 and y > 0:
+#     print('2')
+# elif x < 0 and y < 0:
+#     print('3')
+# elif x < 0 and y > 0:
+#     print('4')
 # else: print("Введены неправильные значения")
 
 
@@ -42,11 +46,16 @@
 
 # number = int(input("Введите число от 1 до 4: \n"))
 
-# if number == 1: print('x > 0, y > 0')
-# elif number == 2: print('x < 0, y > 0')
-# elif number == 3: print('x < 0, y < 0')
-# elif number == 4: print('x > 0, y < 0')
-# else: print("Введено неправильное значение")
+# if number == 1:
+#     print('x > 0, y > 0')
+# elif number == 2:
+#     print('x < 0, y > 0')
+# elif number == 3:
+#     print('x < 0, y < 0')
+# elif number == 4:
+#     print('x > 0, y < 0')
+# else:
+#     print("Введено неправильное значение")
 
 
 # ///////////////////////////////////////////////////
@@ -82,5 +91,7 @@
 # if c < 0: c = 1
 # if d < 0: d = 1
 
-# if c == d: print("Утверждение истинно")
-# else: print("Утверждение ложно")
+# if c == d:
+#     print("Утверждение истинно")
+# else:
+#     print("Утверждение ложно")
